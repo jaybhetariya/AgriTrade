@@ -1,0 +1,23 @@
+main {
+    margin: 0 15%;
+    margin-bottom: 100px;  
+}
+
+h2, h5, .listing-p {
+    color: var(--tint-color);
+}
+
+.listing-main-heading {
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+
+.listing-grains-name {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.listing-p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
